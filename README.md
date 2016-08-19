@@ -1,8 +1,8 @@
 # commonSofe for mac
 
 ## Application
-* Apptivate 键盘开启app
-* ~~Spark~~  跟上面Apptivate不知道哪个好呢？mac 自带的automator也可以
+* ~~Apptivate~~ 键盘开启app,自带的automator也可以
+* Spark  跟上面Apptivate不知道哪个好呢？mac 
 * Shortcat 键盘操作电脑
 * Spectacle 窗口控制
 * Alfred
